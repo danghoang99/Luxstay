@@ -320,9 +320,9 @@
 .header__coin-list::before {
     content: "";
     position: absolute;
-    border-width: 15px 15px;
+    border-width: 15px 44px;
     top: -23px;
-    right: 16px;
+    right: -8px;
     border-style: solid;
     border-color: transparent transparent var(--white-color) transparent;
 }
