@@ -305,7 +305,7 @@
     width: 470px;
     border-radius: 3px;
     top: calc(100% + 7px);
-    right: 14%;
+    right: -4%;
     background-color: var(--white-color);
     display: none;
     z-index: 4;
