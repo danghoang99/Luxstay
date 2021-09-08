@@ -10,6 +10,9 @@
     .hide-on-mb-tl {
         display: none;
     }
+    .header__link-logo {
+        padding: 8px;
+    }
     .menu-img {
         width: 24px;
         height: 24px;
